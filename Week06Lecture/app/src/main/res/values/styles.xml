@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="main_category_style" parent="android:style/Widget.ListView">
+        <item name="android:background">#FAF5CE</item>
+    </style>
+</resources>

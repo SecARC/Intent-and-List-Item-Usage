@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Sturbuzz Coffee</string>
+    <string-array name="main_categories">
+        <item>Foods</item>
+        <item>Drinks</item>
+        <item>Stores</item>
+    </string-array>
+
+    <string-array name="drink_categories">
+        <item>Latte</item>
+        <item>Cappuccino</item>
+        <item>Turkish Coffee</item>
+    </string-array>
+</resources>
